@@ -3,3 +3,6 @@ https://learnopengl-cn.github.io/
 
 2、学习OpenCV图像识别的网站：
 https://www.learnopencv.com/
+
+3、音视频编解码等
+http://blog.csdn.net/leixiaohua1020
